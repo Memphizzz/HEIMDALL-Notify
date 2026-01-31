@@ -1,0 +1,16 @@
+# Environment files (contain secrets)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Docker
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
